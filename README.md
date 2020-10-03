@@ -1,1 +1,1 @@
-# OpenCV-Detection
+# OpenCV Detection Features
